@@ -50,3 +50,26 @@ Functionality refers to the interactive elements within the wireframe, such as b
 
 By understanding and effectively implementing these key elements—layout structure, navigation, content placement, and functionality—designers can create wireframes that not only serve as a blueprint for the final product but also enhance the overall user experience.
 
+## Types of Wireframes
+
+Wireframes can be categorized into two main types: low-fidelity and high-fidelity. Each type serves a different purpose in the design process and is used at various stages of development.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic sketches or digital representations that focus on the overall structure and layout of a design without delving into detailed visual elements. They are often created quickly and may use simple shapes and placeholders.
+
+- **When to Use**: Low-fidelity wireframes are typically used in the early stages of the design process. They are ideal for brainstorming sessions, initial discussions, and gathering feedback from stakeholders. Their simplicity allows designers to explore multiple ideas without getting bogged down by details.
+
+- **Example**: A hand-drawn sketch on paper or a simple digital wireframe created with basic shapes.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and polished representations of the design. They include specific elements such as typography, color schemes, and actual content. These wireframes closely resemble the final product and provide a clearer picture of how the user interface will look and function.
+
+- **When to Use**: High-fidelity wireframes are used in the later stages of the design process, once the overall structure has been approved. They are useful for testing user interactions, conducting usability studies, and presenting to stakeholders for final approval.
+
+- **Example**: A fully interactive wireframe created in tools like Figma that showcases all visual elements and user interactions.
+
+## What Type of Wireframe is Here?
+
+In this project, we primarily focus on creating **high-fidelity wireframes** using Figma. This approach allows us to leverage the tool's capabilities for collaboration and detailed design, ensuring that our prototypes are not only functional but also visually appealing. High-fidelity wireframes will enable us to effectively communicate our design ideas and gather valuable feedback before moving into the development phase.
